@@ -10,7 +10,8 @@ class RainDrop{
   }
   
   void display(){
-    fill(255);
+    //fill(255);
+    fill(200, 10, 100);
     ellipse(x, y, 10, 10);
     
     
