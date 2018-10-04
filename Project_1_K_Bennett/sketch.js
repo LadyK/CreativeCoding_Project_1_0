@@ -1,6 +1,8 @@
 var img, img2;  // this is going to hold my image
 var x, y, rotation;
 
+var newOne;
+
 // asychronously
 function preload(){
   // heavy stuff
